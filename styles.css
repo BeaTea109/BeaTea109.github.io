@@ -1,5 +1,5 @@
 #name{
-    font-size: 70px;
+    font-size: 50px;
     font-family: "Arial Narrow";
     font-weight: 900;
     font-stretch: expanded;
@@ -43,7 +43,7 @@ ul{
 		border-top-left-radius: 20px;
 		border-bottom-left-radius: 20px;
 		border-bottom-right-radius: 20px;
-		padding:20px; 
+		padding:10px; 
 		font-family: "Calibri";
 		font-weight: bold; 
 		border-style: solid;
@@ -52,7 +52,7 @@ ul{
 }
 p{
 
-        font-size: 21px;
+        font-size: 18px;
         font-family: "Calibri";
    		border-top-right-radius: 20px;
 		border-top-left-radius: 20px;
@@ -70,12 +70,12 @@ h2{ background-color:#8099FE;
 	border-bottom-left-radius: 20px;
 	border-bottom-right-radius: 20px;
 	font-family: "arial";
-	font-size: 45px;
-	padding-left: 60px;
+	font-size: 30px;
+	padding-left: 30px;
 
 }
 
-h3{ font-size: 24px;
+h3{ font-size: 18px;
     font-family: "Calibri";
     background-color:#FAF55B;
 	border-top-right-radius: 20px;
@@ -119,11 +119,12 @@ h3{ font-size: 24px;
 		border-top-left-radius: 20px;
 		border-bottom-left-radius: 20px;
 		border-bottom-right-radius: 20px;
-		padding:20px; 
+		padding:10px; 
 		border-style: solid;
 		border-color: #57FE57;
 		border-width: 10px;
 	}
+.menu #contact {font-size: 18px;}
 
 #icon{
 	padding-top: 5px
